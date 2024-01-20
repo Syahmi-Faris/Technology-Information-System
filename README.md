@@ -18,7 +18,6 @@ As a primer subject, this course will introduce students to information systems 
 <summary>Reflection:</summary>
 On 23th and 28th October 2023, I've attended a Career Development Talk present by alumni of UTM and staff of Pittsburg Plate Glass Company (PPG) which was also alumni of UTM. Habib's talks eventually showed me the importance of e-portfolios and resumes. To hire the top individuals, companies will look at portfolios and resumes for proof of their skills. While listening to PPG's talk, I realized that if a data engineering student wants to be a data engineer, they must strengthen their basic coding and programming skills, such as MySQL and Java, because they will be working with big data later on.
 
-
 ### [Newsletter on Industry Visit : Petronas & Huawei](https://github.com/Syahmi-Faris/Technology-Information-System/blob/main/NEWSLETTER/Industry%20Visit%20Petronas%20and%20Huawei.pdf)
 <details>
 <summary>Reflection:</summary>
